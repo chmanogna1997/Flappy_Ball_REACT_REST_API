@@ -1,0 +1,13 @@
+
+
+.login_section{
+    margin-top: 8rem;
+    
+    background: #FFEBEB;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}

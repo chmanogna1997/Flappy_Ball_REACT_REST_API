@@ -1,0 +1,24 @@
+.header_section{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+    background: #7149C6;
+    
+}
+
+.header_section h1 {
+    color: #FFDEB9;
+}
+
+.header_section  button{
+
+    height: 2.3rem;
+    width: 7rem;
+    border-radius: 3rem;
+    background: #FFDEB9;
+    font-size: medium;
+    font-weight: bold;
+}

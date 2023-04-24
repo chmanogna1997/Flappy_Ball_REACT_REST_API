@@ -1,0 +1,15 @@
+.notify_section{
+    display: flex;
+    align-items: center;
+
+    border: 2px solid red;
+    padding: 0.3rem;
+    padding-left: 1.6rem;
+    padding-right: 1.6rem;
+
+    margin-top:1px;
+}
+
+.notify_section> div{
+    margin-right:1rem
+}

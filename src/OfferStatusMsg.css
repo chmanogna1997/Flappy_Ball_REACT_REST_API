@@ -1,0 +1,17 @@
+.msg_section{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.msg_section>p{
+    font-size: large;
+    margin: 1rem;
+    color: red;
+}
+.msg_section>button{
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    padding-right: 10px;
+}
